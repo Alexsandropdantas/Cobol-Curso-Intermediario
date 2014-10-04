@@ -1,0 +1,2 @@
+C:\CursoCobol\PrimeiroProgramaCobol01\PrimeiroProgramaCobol01\bin\x86\Debug\PrimeiroProgramaCobol01.exe
+C:\CursoCobol\PrimeiroProgramaCobol01\PrimeiroProgramaCobol01\obj\x86\Debug\PrimeiroProgramaCobol01.exe

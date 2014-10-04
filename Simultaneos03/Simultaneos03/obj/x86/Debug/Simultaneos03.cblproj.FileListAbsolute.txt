@@ -1,0 +1,2 @@
+C:\CursoCobol\Simultaneos03\Simultaneos03\bin\x86\Debug\Simultaneos03.exe
+C:\CursoCobol\Simultaneos03\Simultaneos03\obj\x86\Debug\Simultaneos03.exe
