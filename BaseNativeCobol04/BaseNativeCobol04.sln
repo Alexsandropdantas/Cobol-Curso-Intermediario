@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "BaseNativeCobol04", "BaseNativeCobol04\BaseNativeCobol04.cblproj", "{841726DA-1AA2-4579-BECB-E7211CCBADEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841726DA-1AA2-4579-BECB-E7211CCBADEC}.Debug|x86.ActiveCfg = Debug|x86
+		{841726DA-1AA2-4579-BECB-E7211CCBADEC}.Debug|x86.Build.0 = Debug|x86
+		{841726DA-1AA2-4579-BECB-E7211CCBADEC}.Release|x86.ActiveCfg = Release|x86
+		{841726DA-1AA2-4579-BECB-E7211CCBADEC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

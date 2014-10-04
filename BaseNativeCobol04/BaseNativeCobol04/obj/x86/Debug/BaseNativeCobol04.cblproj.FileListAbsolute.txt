@@ -1,0 +1,2 @@
+C:\CursoCobol\BaseNativeCobol04\BaseNativeCobol04\bin\x86\Debug\BaseNativeCobol04.exe
+C:\CursoCobol\BaseNativeCobol04\BaseNativeCobol04\obj\x86\Debug\BaseNativeCobol04.exe
