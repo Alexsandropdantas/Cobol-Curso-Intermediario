@@ -1,0 +1,2 @@
+C:\CursoCobol\CRUD06\CRUD06\bin\x86\Debug\CRUD06.exe
+C:\CursoCobol\CRUD06\CRUD06\obj\x86\Debug\CRUD06.exe
