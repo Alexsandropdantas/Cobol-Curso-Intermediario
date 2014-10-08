@@ -1,0 +1,2 @@
+C:\CursoCobol\Triggers07\Triggers07\bin\x86\Debug\Triggers07.exe
+C:\CursoCobol\Triggers07\Triggers07\obj\x86\Debug\Triggers07.exe
