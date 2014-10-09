@@ -1,0 +1,2 @@
+C:\CursoCobol\View08\View08\bin\x86\Debug\View08.exe
+C:\CursoCobol\View08\View08\obj\x86\Debug\View08.exe
