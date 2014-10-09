@@ -1,0 +1,2 @@
+C:\CursoCobol\DynamicSQL09\DynamicSQL09\bin\x86\Debug\DynamicSQL09.exe
+C:\CursoCobol\DynamicSQL09\DynamicSQL09\obj\x86\Debug\DynamicSQL09.exe
