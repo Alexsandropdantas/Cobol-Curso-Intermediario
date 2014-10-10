@@ -1,0 +1,2 @@
+C:\CursoCobol\LockMode10\LockMode10\bin\x86\Debug\LockMode10.exe
+C:\CursoCobol\LockMode10\LockMode10\obj\x86\Debug\LockMode10.exe
