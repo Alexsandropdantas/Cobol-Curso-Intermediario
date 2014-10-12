@@ -1,0 +1,2 @@
+C:\CursoCobol\Funcoes11\Funcoes11\bin\x86\Debug\Funcoes11.exe
+C:\CursoCobol\Funcoes11\Funcoes11\obj\x86\Debug\Funcoes11.exe
