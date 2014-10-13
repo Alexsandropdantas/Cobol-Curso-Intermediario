@@ -1,0 +1,2 @@
+C:\CursoCobol\BibliotecasRotinas12\BibliotecasRotinas12\bin\x86\Debug\BibliotecasRotinas12.exe
+C:\CursoCobol\BibliotecasRotinas12\BibliotecasRotinas12\obj\x86\Debug\BibliotecasRotinas12.exe
