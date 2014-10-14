@@ -1,0 +1,2 @@
+C:\CursoCobol\MergeArquivos13\MergeArquivos13\bin\x86\Debug\MergeArquivos13.exe
+C:\CursoCobol\MergeArquivos13\MergeArquivos13\obj\x86\Debug\MergeArquivos13.exe
