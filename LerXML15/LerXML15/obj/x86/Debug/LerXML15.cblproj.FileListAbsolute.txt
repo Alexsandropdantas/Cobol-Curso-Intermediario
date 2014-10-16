@@ -1,0 +1,2 @@
+C:\CursoCobol\LerXML15\LerXML15\bin\x86\Debug\LerXML15.exe
+C:\CursoCobol\LerXML15\LerXML15\obj\x86\Debug\LerXML15.exe
