@@ -1,0 +1,2 @@
+C:\CursoCobol\Trace16\Trace16\bin\x86\Debug\Trace16.exe
+C:\CursoCobol\Trace16\Trace16\obj\x86\Debug\Trace16.exe
